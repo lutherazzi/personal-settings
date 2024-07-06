@@ -3,7 +3,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit"
   },
-  "editor.fontFamily": "Inter Regular",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.fontSize": 13.5,
   "editor.lineHeight": 1.9,
@@ -34,6 +34,7 @@
   "symbols.hidesExplorerArrows": false,
   "tabnine.codeLensEnabled": false,
   "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.zoomLevel": 1,
   "window.commandCenter": false,
