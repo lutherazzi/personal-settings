@@ -1,0 +1,63 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.fontFamily": "Inter Regular",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13.5,
+  "editor.lineHeight": 1.9,
+  "editor.minimap.enabled": true,
+  "editor.minimap.autohide": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [
+    80,
+    140
+  ],
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.semanticHighlighting.enabled": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "symbols.files.associations": {
+    "*.module.ts": "nest",
+    ".env.example": "gear",
+    "*.spec.ts": "ts-test",
+    "*.e2e-spec.ts": "ts-test",
+    "vitest.config.ts": "vite",
+    "vitest.config.e2e.ts": "vite"
+  },
+  "symbols.hidesExplorerArrows": false,
+  "tabnine.codeLensEnabled": false,
+  "tabnine.experimentalAutoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1,
+  "window.commandCenter": false,
+  "window.titleBarStyle": "custom",
+  "workbench.activityBar.location": "bottom",
+  "workbench.colorTheme": "Min Dark",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "symbols",
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": false,
+  "editor.tabSize": 2,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
+}
