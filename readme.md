@@ -5,4 +5,5 @@ I needed to save all my custom settings in one place, and I realized that I coul
 In this repository you will find:
 
 - VS Code User Settings
-- zhrc settings
+- ZSH Settings
+- Hyper Terminal Settings
