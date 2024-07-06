@@ -45,7 +45,10 @@
   "workbench.layoutControl.enabled": false,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.statusBar.visible": false,
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
@@ -59,5 +62,8 @@
   },
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
   }
 }
