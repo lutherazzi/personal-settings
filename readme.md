@@ -7,3 +7,4 @@ In this repository you will find:
 - VS Code User Settings
 - ZSH Settings
 - Hyper Terminal Settings
+- GIT Config Settings
