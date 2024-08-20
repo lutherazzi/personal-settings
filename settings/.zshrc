@@ -28,13 +28,16 @@ SPACESHIP_CHAR_SYMBOL="❯"
 SPACESHIP_CHAR_SUFFIX=" "
 ### END SPACESHIP
 
-
 ### PLUGINS
 plugins=(
   git
   zsh-autosuggestions
 )
 ### END PLUGINS
+
+### ALIAS
+alias ll='ls -lah --color=auto --group-directories-first'
+###
 
 ### SOURCE
 source $ZSH/oh-my-zsh.sh
